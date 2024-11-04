@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Lakshmi@Lakki30
+- 👋 Hi, I’m Lakshmi
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning, Gen AI and LLM
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me Lakshmidevagiri8@gmail.com
 - 😄 Pronouns: She/Her
